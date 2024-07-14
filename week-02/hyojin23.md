@@ -4,5 +4,5 @@
     - Section 6. Least Recently Used 부터 Section 6. Binary_Search(이분 검색)까지 5문제 진행 예정
 
 ## 달성 여부
-
-- 
+- Section 6. 마구간 정하기(Choosing a Stable)까지 총 7문제 풀었음
+- 성공
